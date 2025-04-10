@@ -1,2 +1,2 @@
-# officalfunfacts.github.io
+# officalfunfacts
 The offical Fun Facts Website!
